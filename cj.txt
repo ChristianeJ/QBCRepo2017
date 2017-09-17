@@ -1,0 +1,5 @@
+This is a trial for uploading a txt file using Git into a repository. 
+
+To anyone reading this, I hope you have a lovely day! 
+
+September 16th, 2017 9:23 pm 
